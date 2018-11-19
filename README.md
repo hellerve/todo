@@ -16,6 +16,7 @@ These are some pieces of software that I want to write.
 * [medium] Investigate how to make Carp compile to WebAssembly with JS integration
 * [big] Investigate depdendent types in Carp
 * [medium] Make the macro system for Carp finally respect hygiene
+* [medium] Write a small, self-contained JIT framework in C or Carp
 * [huge] Build a nanopass compiler framework in zepto, for zepto ([WIP](https://github.com/zepto-lang/zepto/tree/master/zepto/compiler))
 * [big] Write a good, display-agnostic framework for pretty-printing in Carp
   (based on [The Final Pretty Printer](http://davidchristiansen.dk/drafts/final-pretty-printer-draft.pdf)?)
