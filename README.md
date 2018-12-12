@@ -25,6 +25,7 @@ These are some pieces of software that I want to write.
   online API docs
 * [gargantuan] Write a great, Smalltalk-style development environment for Carp,
   a static language (no, really)
+ * [big] Write an OMeta implementation in OCaml, for learning purposes
 
 ## Books
 
