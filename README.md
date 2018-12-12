@@ -21,8 +21,6 @@ These are some pieces of software that I want to write.
 * [big] Write a good, display-agnostic framework for pretty-printing in Carp
   (based on [The Final Pretty Printer](http://davidchristiansen.dk/drafts/final-pretty-printer-draft.pdf)?)
 * [huge] Build a good standard library for Carp
-* [medium] Build a system to autogenerate an API consumer from various forms of
-  online API docs
 * [gargantuan] Write a great, Smalltalk-style development environment for Carp,
   a static language (no, really)
  * [big] Write an OMeta implementation in OCaml, for learning purposes
