@@ -23,7 +23,7 @@ These are some pieces of software that I want to write.
 * [huge] Build a good standard library for Carp
 * [gargantuan] Write a great, Smalltalk-style development environment for Carp,
   a static language (no, really)
- * [big] Write an OMeta implementation in OCaml, for learning purposes
+* [big] Write an OMeta implementation in OCaml, for learning purposes
 
 ## Books
 
@@ -42,5 +42,6 @@ I’ll be able to ever go back to university, alas.
 
 * Medium to advanced mathematics
 * Basic economics
+* German Law
 * Linguistics and languages (I need to brush up on my French and Spanish, and
   learn Swedish properly)
