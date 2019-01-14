@@ -17,6 +17,8 @@ These are some pieces of software that I want to write.
 * [big] Investigate dependent types in Carp
 * [medium] Make the macro system for Carp finally respect hygiene
 * [medium] Write a small, self-contained JIT framework in C or Carp
+* [medium] Write a small PoC language that handles types and effects separately (effects are
+  annotations that let you answer questions about the PoLP of those functions)
 * [huge] Build a nanopass compiler framework in zepto, for zepto ([WIP](https://github.com/zepto-lang/zepto/tree/master/zepto/compiler))
 * [big] Write a good, display-agnostic framework for pretty-printing in Carp
   (based on [The Final Pretty Printer](http://davidchristiansen.dk/drafts/final-pretty-printer-draft.pdf)?)
