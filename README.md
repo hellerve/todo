@@ -11,7 +11,6 @@ I might need a few decades to kick some of these off of the list.
 
 These are some pieces of software that I want to write.
 
-* [medium] Build a time and date library and datatypes for Carp
 * [medium] Build a HTTP parser and datatype for Carp
 * [medium] Investigate how to make Carp compile to WebAssembly with JS integration
 * [big] Investigate dependent types in Carp
@@ -32,7 +31,7 @@ These are some books I want to write. No, really.
 * Read, Eval, Print, Loop: A philosophical, historical, and technical
   examination of each of the four stages of a REPL.
 * Building a Language: An examination of the tools that you’d usually not
-  consider when building a language (development environments; pretty printers:
+  consider when building a language (development environments; pretty printers;
   a good, clean standard library; etc.)
 
 ## Learnings
