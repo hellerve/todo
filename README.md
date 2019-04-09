@@ -44,5 +44,6 @@ I’ll be able to ever go back to university, alas.
 * Medium to advanced mathematics
 * Basic economics
 * German Law
+* Distilling and aging spirits
 * Linguistics and languages (I need to brush up on my French and Spanish, and
   learn Swedish properly)
