@@ -25,6 +25,8 @@ These are some pieces of software that I want to write.
 * [gargantuan] Write a great, Smalltalk-style development environment for Carp,
   a static language (no, really)
 * [big] Write an OMeta implementation in OCaml, for learning purposes
+* [gargantuan] Try to build a generic, pluggable type inference framework,
+  LLVM style
 
 ## Books
 
