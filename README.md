@@ -11,7 +11,6 @@ I might need a few decades to kick some of these off of the list.
 
 These are some pieces of software that I want to write.
 
-* [medium] Build a HTTP parser and datatype for Carp
 * [medium] Investigate how to make Carp compile to WebAssembly with JS integration
 * [big] Investigate dependent types in Carp
 * [medium] Make the macro system for Carp finally respect hygiene
